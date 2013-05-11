@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://jeremyhuffman.com/404.html</loc>
+        <loc>http://jeremyjh.github.io/jeremyhuffman/404.html</loc>
         <lastmod>2013-05-08T20:35:34-04:00</lastmod>
     </url>
     <url>
-        <loc>http://jeremyhuffman.com/</loc>
+        <loc>http://jeremyjh.github.io/jeremyhuffman/</loc>
         <lastmod>2013-05-08T20:35:35-04:00</lastmod>
     </url>
     <url>
-        <loc>http://jeremyhuffman.com/blog/archives/</loc>
+        <loc>http://jeremyjh.github.io/jeremyhuffman/blog/archives/</loc>
         <lastmod>2013-05-08T20:35:35-04:00</lastmod>
     </url>
 </urlset>
