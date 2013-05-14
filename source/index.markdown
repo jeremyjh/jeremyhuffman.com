@@ -6,8 +6,6 @@ footer: true
 
 
 
-## jeremyhuffman.com ... the website. 
-
 ### Getting in Touch
 
 You can email me if you can guess the address. Hint: firstname@firstnamelastname.com . 
