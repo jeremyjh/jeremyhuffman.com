@@ -10,7 +10,7 @@ footer: true
 
 You can email me if you can guess the address. Hint: firstname@firstnamelastname.com . 
 
-You can also find me on [Facebook](https://www.facebook.com/JeremyHuffman) and [Linkedin](http://www.linkedin.com/in/jeremyhuffman). 
+You can find me on [Facebook](https://www.facebook.com/JeremyHuffman) and [Linkedin](http://www.linkedin.com/in/jeremyhuffman). I also have a couple of small projects on [Github](https://github.com/jeremyjh).
 
 <br/>
 
