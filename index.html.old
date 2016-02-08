@@ -7,7 +7,8 @@
   <meta charset="utf-8">
   <title>jeremyhuffman.com</title>
   <meta name="author" content="Jeremy Huffman">
-  <meta http-equiv="X-XRDS-Location" content="http://www.myopenid.com/xrds?username=jeremyhuffman.myopenid.com">
+	<link rel="openid2.provider openid.server" href="https://open.login.yahooapis.com/openid/op/auth" /> 
+	<link rel="openid2.local_id openid.delegate" href="https://me.yahoo.com/jhuffman42" />
 
   
   <meta name="description" content="Blog Archives Recent Posts GitHub Repos Status updating... @jeremyjh on GitHub $.domReady(function(){ if (!window.jXHR){ var jxhr = document. &hellip;">
