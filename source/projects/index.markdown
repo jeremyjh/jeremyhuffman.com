@@ -8,7 +8,7 @@ footer: true
 ---
 
 ###[Dialyxir](https://github.com/jeremyjh/dialyxir) [![Hex.pm](https://img.shields.io/hexpm/v/plug.svg)](https://hex.pm/packages/dialyxir)
-This is a very small project that I banged out initially in the course of a single day but it is definitely the one which has been the most useful to people and collected the most stars and contributions of my projects on Github. This adds a couple of tasks to Mix (the [Elixir](http://elixir-lang.org) build tool) which helps one get started with using the [Erlang Dialyzer](http://www.erlang.org/doc/man/dialyzer.html) in Elixir projects.
+This is a small project that I banged out initially in the course of a single day but it is definitely the one which has been the most useful to people and collected the most stars and contributions of my projects on Github. After a few years all the usage of it despite its long-standing deficiencies prompted a comprehensive overhaul and re-kindled my interest in Elixir in general. This adds a task to Mix (the [Elixir](http://elixir-lang.org) build tool) which helps one get started with using the [Erlang Dialyzer](http://www.erlang.org/doc/man/dialyzer.html) in Elixir projects.
   
 <br><br>
 
